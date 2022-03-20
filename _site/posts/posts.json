@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Tim's Blog Memory Alpha",
+    "description": "Welcome to our new blog, Tim's Blog Memory Alpha. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2022-03-20",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-03-20T11:45:42-04:00",
+    "input_file": {}
+  }
+]
