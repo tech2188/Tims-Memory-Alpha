@@ -1,0 +1,23 @@
+---
+title: "Just for Fun"
+description: |
+  Some random ramblings.
+author:
+  - name: Tim Sheehan
+    url: https://www.timsheehandatapro.com/
+date: 2022-03-20
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+*Great Science Fiction Shows:
+    +Star Trek (All Series)
+    +Stargate (All Series)
+

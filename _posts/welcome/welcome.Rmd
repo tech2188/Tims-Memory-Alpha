@@ -1,18 +1,20 @@
 ---
-title: "Welcome to Tim's Blog - Memory Alpha"
+title: "Welcome to Tim's Memory Alpha Blog"
 description: |
-  Welcome to our new blog, Tim's Blog Memory Alpha. We hope you enjoy 
-  reading what we have to say!
+  Welcome to my new blog, Tim's Memory Alpha Blog. I hope you enjoy 
+  reading what we have to say. This was built as a library of my own personal 
+  experances and knowlage base.
 author:
-  - name: Nora Jones 
+  - name: Tim Sheehan 
     url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+    affiliation: DataPro
+    affiliation_url: https://www.linkedin.com/in/timothy-sheehan-20551547/
 date: 03-20-2022
 output:
   distill::distill_article:
     self_contained: false
 ---
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
@@ -24,3 +26,5 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 
+**See my linkedIn:**
+<https://www.linkedin.com/in/timothy-sheehan-20551547/>

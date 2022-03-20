@@ -1,5 +1,5 @@
 ---
-title: "Tim's Blog - Memory Alpha"
+title: "Tim's Memory Alpha Blog"
 site: distill::distill_website
 listing: posts
 ---

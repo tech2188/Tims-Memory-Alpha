@@ -1,0 +1,34 @@
+---
+title: "How I created This Blog"
+description: |
+  This is how I created my blog with distill and Rmarkdown.
+author:
+  - name: Tim Sheehan
+    url: https://example.com/norajones
+date: 2022-03-20
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+
+```
+
+
+The links below are what i followed to build this blog. some basic Rmarkdown and these links will get you up and going.
+
+
+1. <https://themockup.blog/posts/2020-08-01-building-a-blog-with-distill/>
+2. <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
+3. <https://www.youtube.com/watch?v=ZOBXGxPH3Zo>
+
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+
