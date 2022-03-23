@@ -1,5 +1,11 @@
 ---
 title: "Tim's Memory Alpha Blog"
 site: distill::distill_website
-listing: posts
+listing:
+  posts:
+  - 2022-03-20-how-i-created-this-blog
+  - 2022-03-20-just-for-fun
+  - 2022-03-22-excel-tools
+  
+  
 ---

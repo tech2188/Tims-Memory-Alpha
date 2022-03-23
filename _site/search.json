@@ -5,15 +5,15 @@
       "title": "About this blog",
       "description": "Some additional details about the blog",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-03-20T11:45:43-04:00"
+      "contents": "\r\nThis is a blog I created to capture what I have learned as a personal\r\nlibrary. It is my hope that it can help others as well.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-03-22T20:35:33-04:00"
     },
     {
       "path": "index.html",
-      "title": "Tim's Blog Memory Alpha",
+      "title": "Tim's Memory Alpha Blog",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-03-20T11:45:43-04:00"
+      "last_modified": "2022-03-22T20:32:16-04:00"
     }
   ],
   "collections": ["posts/posts.json"]

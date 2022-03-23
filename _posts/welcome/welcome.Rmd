@@ -6,7 +6,7 @@ description: |
   experances and knowlage base.
 author:
   - name: Tim Sheehan 
-    url: https://example.com/norajones
+    url: https://www.timsheehandatapro.com/
     affiliation: DataPro
     affiliation_url: https://www.linkedin.com/in/timothy-sheehan-20551547/
 date: 03-20-2022

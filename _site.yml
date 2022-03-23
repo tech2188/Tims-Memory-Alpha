@@ -1,7 +1,7 @@
 name: "Tims-Memory-Alpha"
 title: "Tim's Memory Alpha Blog"
 description: |
-  Tim's Blog - Memory Alpha
+  Tim's Memory Alpha Blog 
 output_dir: "_site"
 navbar:
   right:

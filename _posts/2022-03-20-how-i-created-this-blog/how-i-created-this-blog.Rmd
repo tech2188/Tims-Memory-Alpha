@@ -4,7 +4,6 @@ description: |
   This is how I created my blog with distill and Rmarkdown.
 author:
   - name: Tim Sheehan
-    url: https://example.com/norajones
 date: 2022-03-20
 output:
   distill::distill_article:
@@ -15,7 +14,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 
-
+#https://app.netlify.com/sites/vigorous-spence-d70c4b/settings/deploys#continuous-deployment
 ```
 
 

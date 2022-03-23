@@ -7,3 +7,5 @@ description: |
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+This is a blog I created to capture what I have learned as a personal library. It is my hope that it can help others as well.

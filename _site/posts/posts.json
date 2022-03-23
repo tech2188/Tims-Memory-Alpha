@@ -1,19 +1,70 @@
 [
   {
+    "path": "posts/2022-03-22-excel-tools/",
+    "title": "Excel Tools",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Tim Sheehan",
+        "url": "https://www.timsheehandatapro.com/"
+      }
+    ],
+    "date": "2022-03-22",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-03-22T20:21:03-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2022-03-20-how-i-created-this-blog/",
+    "title": "How I created This Blog",
+    "description": "This is how I created my blog with distill and Rmarkdown.",
+    "author": [
+      {
+        "name": "Tim Sheehan",
+        "url": {}
+      }
+    ],
+    "date": "2022-03-20",
+    "categories": [],
+    "contents": "\r\nThe links below are what i followed to build this blog. some basic\r\nRmarkdown and these links will get you up and going.\r\nhttps://themockup.blog/posts/2020-08-01-building-a-blog-with-distill/\r\nhttps://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet\r\nhttps://www.youtube.com/watch?v=ZOBXGxPH3Zo\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-03-20T16:33:26-04:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2022-03-20-just-for-fun/",
+    "title": "Just for Fun",
+    "description": "Some random ramblings.",
+    "author": [
+      {
+        "name": "Tim Sheehan",
+        "url": "https://www.timsheehandatapro.com/"
+      }
+    ],
+    "date": "2022-03-20",
+    "categories": [],
+    "contents": "\r\n*Great Science Fiction Shows: +Star Trek (All Series) +Stargate (All\r\nSeries)\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-03-20T16:39:08-04:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to Tim's Memory Alpha Blog",
     "description": "Welcome to my new blog, Tim's Memory Alpha Blog. I hope you enjoy \nreading what we have to say. This was built as a library of my own personal \nexperances and knowlage base.",
     "author": [
       {
         "name": "Tim Sheehan",
-        "url": "https://example.com/norajones"
+        "url": "https://www.timsheehandatapro.com/"
       }
     ],
     "date": "2022-03-20",
     "categories": [],
     "contents": "\r\nSee my linkedIn: https://www.linkedin.com/in/timothy-sheehan-20551547/\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2022-03-20T15:11:47-04:00",
-    "input_file": "welcome.knit.md"
+    "last_modified": "2022-03-20T16:32:35-04:00",
+    "input_file": {}
   }
 ]
