@@ -30,4 +30,13 @@ Distill is a publication format for scientific and technical writing, native to 
 
 Learn more about using Distill at <https://rstudio.github.io/distill>.
 
+<https://rstudio.github.io/distill/blog_workflow.html>
+
+```{r}
+
+
+# create_post("The Sharpe Ratio", draft = TRUE)
+# rename_post_dir("_posts/2016-11-08-sharpe-ratio") 
+
+```
 
