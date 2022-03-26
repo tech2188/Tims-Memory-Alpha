@@ -6,6 +6,4 @@ listing:
   - 2022-03-20-how-i-created-this-blog
   - 2022-03-20-just-for-fun
   - 2022-03-22-excel-tools
-  
-  
 ---
